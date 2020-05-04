@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: acutator-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Emad
+Implementation-Vendor-Id: com.frankmoley.boot.essentials
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/actuator-demo
+Created-By: Maven Integration for Eclipse
+

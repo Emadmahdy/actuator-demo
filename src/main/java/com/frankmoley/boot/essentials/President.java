@@ -23,4 +23,9 @@ public class President {
     private String lastName;
     @Column(name="EMAIL_ADDRESS")
     private String emailAddress;
+	@Override
+	public String toString() {
+		return "President [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", emailAddress="
+				+ emailAddress + "]";
+	}
 }

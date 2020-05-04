@@ -1,0 +1,4 @@
+com\frankmoley\boot\essentials\ApiController.class
+com\frankmoley\boot\essentials\PresidentRepository.class
+com\frankmoley\boot\essentials\President.class
+com\frankmoley\boot\essentials\ActuatorDemoApplication.class
